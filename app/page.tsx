@@ -7,10 +7,7 @@ import Footer from './_components/Footer';
 export default function Home() {
 	return (
 		<main className="parent-container h-0 box-border">
-			<NavBar />
 			<Hero />
-
-			<Footer />
 		</main>
 	);
 }
