@@ -9,24 +9,12 @@ const WorkoutRoutines = () => {
 
 	const workoutData = [
 		{
-			title: 'Abs',
-			img: 'https://c4.wallpaperflare.com/wallpaper/206/268/839/pose-muscle-muscle-rod-press-hd-wallpaper-preview.jpg',
-			path: '/workout-routines/abs',
-			description: 'Core strengthening exercises',
-		},
-		{
-			title: 'Arms',
-			img: 'https://s1.1zoom.me/big0/150/Men_Bodybuilding_T-shirt_452870.jpg',
-			path: '/workout-routines/arms',
-			description: 'Build powerful arms',
-		},
-		{
 			title: 'Chest',
 			img: 'https://c4.wallpaperflare.com/wallpaper/411/962/510/muscles-men-sweating-wallpaper-preview.jpg',
 			path: '/workout-routines/chest',
 			description: 'Develop a strong chest',
 		},
-		{
+			{
 			title: 'Back',
 			img: 'https://c4.wallpaperflare.com/wallpaper/940/736/840/man-dark-bodybuilder-muscle-wallpaper-preview.jpg',
 			path: '/workout-routines/back',
@@ -43,6 +31,18 @@ const WorkoutRoutines = () => {
 			img: 'https://c1.wallpaperflare.com/preview/94/771/655/jogging-run-sport-jog.jpg',
 			path: '/workout-routines/legs',
 			description: 'Power up your lower body',
+		},
+		{
+			title: 'Abs',
+			img: 'https://c4.wallpaperflare.com/wallpaper/206/268/839/pose-muscle-muscle-rod-press-hd-wallpaper-preview.jpg',
+			path: '/workout-routines/abs',
+			description: 'Core strengthening exercises',
+		},
+		{
+			title: 'Arms',
+			img: 'https://s1.1zoom.me/big0/150/Men_Bodybuilding_T-shirt_452870.jpg',
+			path: '/workout-routines/arms',
+			description: 'Build powerful arms',
 		},
 	];
 
